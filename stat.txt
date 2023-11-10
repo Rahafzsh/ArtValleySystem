@@ -1,0 +1,3 @@
+Number of Orders :0
+Total number of order prices :0.0000
+Average price of orders :0.0000
